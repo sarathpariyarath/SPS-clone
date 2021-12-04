@@ -1,0 +1,86 @@
+.container{
+    text-align: center;
+    
+}
+.sps:hover{
+    text-decoration: none;
+    color: black;
+    font-size: 2rem;    
+}
+.sps{
+    text-decoration: none;
+    color: black;
+    font-size: 2rem; 
+}
+.heading-1{
+    margin-top: 15px;
+    margin-bottom: 30px;
+
+
+}
+.container{
+   
+    background: white;
+    
+}
+.text-input{
+    
+    border: none;
+    outline: none;
+    
+}
+
+.div-style{
+    color: gray;
+    margin-bottom: 30px;
+    border: none;
+    border-bottom:.2px solid rgba(128, 128, 128, 0.24)  ;
+}
+.faq a{
+    text-decoration: none;
+    color: #00d2b5;
+}
+.select-f option{
+    color: gray;
+}
+body{
+    margin: 0px;
+}
+.form{
+    padding: 30px;
+    border-radius: 10px;
+}
+.reg{
+    background-color: #00d2b5;
+    border: none;
+    color: white;
+    letter-spacing: 5px;
+    height: 50px;
+    border-radius: 4px;
+    
+}
+/* .reg:hover{
+    background: ;
+} */
+input{
+    outline: none;
+    border: none;
+}
+select{
+    border: none;
+    outline: none;
+    
+    color: gray;
+}
+
+.h{
+    color: gray;
+}
+
+.error{
+    color: red;
+}
+#select-f{
+    color: gray;
+}
+
